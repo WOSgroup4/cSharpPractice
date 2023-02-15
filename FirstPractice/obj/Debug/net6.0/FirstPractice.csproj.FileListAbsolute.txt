@@ -1,0 +1,15 @@
+C:\Users\jaysw\OneDrive\Desktop\Coding Dojo\cSharpPractice\FirstPractice\bin\Debug\net6.0\FirstPractice.exe
+C:\Users\jaysw\OneDrive\Desktop\Coding Dojo\cSharpPractice\FirstPractice\bin\Debug\net6.0\FirstPractice.deps.json
+C:\Users\jaysw\OneDrive\Desktop\Coding Dojo\cSharpPractice\FirstPractice\bin\Debug\net6.0\FirstPractice.runtimeconfig.json
+C:\Users\jaysw\OneDrive\Desktop\Coding Dojo\cSharpPractice\FirstPractice\bin\Debug\net6.0\FirstPractice.dll
+C:\Users\jaysw\OneDrive\Desktop\Coding Dojo\cSharpPractice\FirstPractice\bin\Debug\net6.0\FirstPractice.pdb
+C:\Users\jaysw\OneDrive\Desktop\Coding Dojo\cSharpPractice\FirstPractice\obj\Debug\net6.0\FirstPractice.csproj.AssemblyReference.cache
+C:\Users\jaysw\OneDrive\Desktop\Coding Dojo\cSharpPractice\FirstPractice\obj\Debug\net6.0\FirstPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaysw\OneDrive\Desktop\Coding Dojo\cSharpPractice\FirstPractice\obj\Debug\net6.0\FirstPractice.AssemblyInfoInputs.cache
+C:\Users\jaysw\OneDrive\Desktop\Coding Dojo\cSharpPractice\FirstPractice\obj\Debug\net6.0\FirstPractice.AssemblyInfo.cs
+C:\Users\jaysw\OneDrive\Desktop\Coding Dojo\cSharpPractice\FirstPractice\obj\Debug\net6.0\FirstPractice.csproj.CoreCompileInputs.cache
+C:\Users\jaysw\OneDrive\Desktop\Coding Dojo\cSharpPractice\FirstPractice\obj\Debug\net6.0\FirstPractice.dll
+C:\Users\jaysw\OneDrive\Desktop\Coding Dojo\cSharpPractice\FirstPractice\obj\Debug\net6.0\refint\FirstPractice.dll
+C:\Users\jaysw\OneDrive\Desktop\Coding Dojo\cSharpPractice\FirstPractice\obj\Debug\net6.0\FirstPractice.pdb
+C:\Users\jaysw\OneDrive\Desktop\Coding Dojo\cSharpPractice\FirstPractice\obj\Debug\net6.0\FirstPractice.genruntimeconfig.cache
+C:\Users\jaysw\OneDrive\Desktop\Coding Dojo\cSharpPractice\FirstPractice\obj\Debug\net6.0\ref\FirstPractice.dll

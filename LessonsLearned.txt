@@ -1,0 +1,10 @@
+
+
+Katie lesson learned:
+I learned that there are different ways that Visual Studio shows merge conflicts.
+
+Ashunti lesson learned:
+I learned how to utilize .Count instead of calling by the index. 
+
+Joslyn lesson learned:
+I learned how to create a repository for GitHub without needing to fork and clone. 

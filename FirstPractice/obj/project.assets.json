@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\jaysw\\OneDrive\\Desktop\\Coding Dojo\\cSharpPractice\\FirstPractice\\FirstPractice.csproj",
       "projectName": "FirstPractice",
       "projectPath": "C:\\Users\\jaysw\\OneDrive\\Desktop\\Coding Dojo\\cSharpPractice\\FirstPractice\\FirstPractice.csproj",
       "packagesPath": "C:\\Users\\jaysw\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jaysw\\OneDrive\\Desktop\\Coding Dojo\\cSharpPractice\\FirstPractice\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\NightKing\\Documents\\CodingDojo\\cSharpPractice\\cSharpPractice\\FirstPractice\\FirstPractice.csproj",
+      "projectName": "FirstPractice",
+      "projectPath": "C:\\Users\\NightKing\\Documents\\CodingDojo\\cSharpPractice\\cSharpPractice\\FirstPractice\\FirstPractice.csproj",
+      "packagesPath": "C:\\Users\\NightKing\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\NightKing\\Documents\\CodingDojo\\cSharpPractice\\cSharpPractice\\FirstPractice\\obj\\",
+>>>>>>> 455ff0a29779df3aef8276afdfb373770744e860
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jaysw\\AppData\\Roaming\\NuGet\\NuGet.Config"

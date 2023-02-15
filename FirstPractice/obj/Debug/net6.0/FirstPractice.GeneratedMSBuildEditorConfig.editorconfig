@@ -7,4 +7,8 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FirstPractice
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\jaysw\OneDrive\Desktop\Coding Dojo\cSharpPractice\FirstPractice\
+=======
+build_property.ProjectDir = C:\Users\NightKing\Documents\CodingDojo\cSharpPractice\cSharpPractice\FirstPractice\
+>>>>>>> 455ff0a29779df3aef8276afdfb373770744e860

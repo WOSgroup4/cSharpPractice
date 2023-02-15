@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NightKing\\Documents\\CodingDojo\\cSharpPractice\\FirstPractice\\FirstPractice.csproj": {}
+    "C:\\Users\\NightKing\\Documents\\CodingDojo\\cSharpPractice\\cSharpPractice\\FirstPractice\\FirstPractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NightKing\\Documents\\CodingDojo\\cSharpPractice\\FirstPractice\\FirstPractice.csproj": {
+    "C:\\Users\\NightKing\\Documents\\CodingDojo\\cSharpPractice\\cSharpPractice\\FirstPractice\\FirstPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NightKing\\Documents\\CodingDojo\\cSharpPractice\\FirstPractice\\FirstPractice.csproj",
+        "projectUniqueName": "C:\\Users\\NightKing\\Documents\\CodingDojo\\cSharpPractice\\cSharpPractice\\FirstPractice\\FirstPractice.csproj",
         "projectName": "FirstPractice",
-        "projectPath": "C:\\Users\\NightKing\\Documents\\CodingDojo\\cSharpPractice\\FirstPractice\\FirstPractice.csproj",
+        "projectPath": "C:\\Users\\NightKing\\Documents\\CodingDojo\\cSharpPractice\\cSharpPractice\\FirstPractice\\FirstPractice.csproj",
         "packagesPath": "C:\\Users\\NightKing\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NightKing\\Documents\\CodingDojo\\cSharpPractice\\FirstPractice\\obj\\",
+        "outputPath": "C:\\Users\\NightKing\\Documents\\CodingDojo\\cSharpPractice\\cSharpPractice\\FirstPractice\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NightKing\\AppData\\Roaming\\NuGet\\NuGet.Config"

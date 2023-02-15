@@ -1,14 +1,8 @@
 {
   "version": 2,
-<<<<<<< HEAD
-  "dgSpecHash": "44kbxd2XetghZeTUuq/nhozV3J4ZmSar3xy2MC5q0xsj2WyWcQpsmntnUbM18yqSKasnpvFS9i0e1miBjq2oQA==",
+  "dgSpecHash": "4GUOud5wZN+HxFrpEJ9QXDXNwkIQrNcWbejLq1NDam9Dofjc/mNCbawFVSeoVPd0Obz6pwW7zYI99lVBAIp0pw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jaysw\\OneDrive\\Desktop\\Coding Dojo\\cSharpPractice\\FirstPractice\\FirstPractice.csproj",
-=======
-  "dgSpecHash": "cSwLzAohwveQvWGDE430uLKBTI1eFWq4rM1RpBlvwnNzxT4icDF2sN76qxSRw1hLJBSdPLp+8QBirPaZz0t7vA==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\NightKing\\Documents\\CodingDojo\\cSharpPractice\\cSharpPractice\\FirstPractice\\FirstPractice.csproj",
->>>>>>> 455ff0a29779df3aef8276afdfb373770744e860
+  "projectFilePath": "/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/cSharpPractice/FirstPractice/FirstPractice.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

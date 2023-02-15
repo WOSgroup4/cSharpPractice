@@ -1,34 +1,20 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\jaysw\\OneDrive\\Desktop\\Coding Dojo\\cSharpPractice\\FirstPractice\\FirstPractice.csproj": {}
+    "/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/cSharpPractice/FirstPractice/FirstPractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jaysw\\OneDrive\\Desktop\\Coding Dojo\\cSharpPractice\\FirstPractice\\FirstPractice.csproj": {
+    "/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/cSharpPractice/FirstPractice/FirstPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaysw\\OneDrive\\Desktop\\Coding Dojo\\cSharpPractice\\FirstPractice\\FirstPractice.csproj",
+        "projectUniqueName": "/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/cSharpPractice/FirstPractice/FirstPractice.csproj",
         "projectName": "FirstPractice",
-        "projectPath": "C:\\Users\\jaysw\\OneDrive\\Desktop\\Coding Dojo\\cSharpPractice\\FirstPractice\\FirstPractice.csproj",
-        "packagesPath": "C:\\Users\\jaysw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaysw\\OneDrive\\Desktop\\Coding Dojo\\cSharpPractice\\FirstPractice\\obj\\",
-=======
-    "C:\\Users\\NightKing\\Documents\\CodingDojo\\cSharpPractice\\cSharpPractice\\FirstPractice\\FirstPractice.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\NightKing\\Documents\\CodingDojo\\cSharpPractice\\cSharpPractice\\FirstPractice\\FirstPractice.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\NightKing\\Documents\\CodingDojo\\cSharpPractice\\cSharpPractice\\FirstPractice\\FirstPractice.csproj",
-        "projectName": "FirstPractice",
-        "projectPath": "C:\\Users\\NightKing\\Documents\\CodingDojo\\cSharpPractice\\cSharpPractice\\FirstPractice\\FirstPractice.csproj",
-        "packagesPath": "C:\\Users\\NightKing\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NightKing\\Documents\\CodingDojo\\cSharpPractice\\cSharpPractice\\FirstPractice\\obj\\",
->>>>>>> 455ff0a29779df3aef8276afdfb373770744e860
+        "projectPath": "/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/cSharpPractice/FirstPractice/FirstPractice.csproj",
+        "packagesPath": "/Users/ashunti/.nuget/packages/",
+        "outputPath": "/Users/ashunti/Desktop/jan2023cohort/assignments/cSharp/cSharpPractice/FirstPractice/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jaysw\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/ashunti/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -67,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.405/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -2,6 +2,7 @@
 
 Katie lesson learned:
 I learned that there are different ways that Visual Studio shows merge conflicts.
+That even though we are in an organization, you still have to add people to the project itself so they can push to the repo.
 
 Ashunti lesson learned:
 I learned how to utilize .Count instead of calling by the index. 
